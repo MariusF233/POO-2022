@@ -1,0 +1,10 @@
+﻿Lab1.obj : error LNK2019: unresolved external symbol "int __cdecl Sum(int,int)" (?Sum@@YAHHH@Z) referenced in function _main
+    Hint on symbols that are defined and could potentially match:
+      "int __cdecl Sum(int,float)" (?Sum@@YAHHM@Z)
+Lab1.obj : error LNK2019: unresolved external symbol "int __cdecl Dif(int,int)" (?Dif@@YAHHH@Z) referenced in function _main
+    Hint on symbols that are defined and could potentially match:
+      "int __cdecl Dif(char,int)" (?Dif@@YAHDH@Z)
+Lab1.obj : error LNK2019: unresolved external symbol "int __cdecl Mul(int,int)" (?Mul@@YAHHH@Z) referenced in function _main
+    Hint on symbols that are defined and could potentially match:
+      "int __cdecl Mul(long,int)" (?Mul@@YAHJH@Z)
+C:\Users\me\source\repos\Project2\Debug\Project2.exe : fatal error LNK1120: 3 unresolved externals
